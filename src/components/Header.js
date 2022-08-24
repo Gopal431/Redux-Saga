@@ -1,11 +1,17 @@
 import React from 'react'
-import { useSelector } from 'react-redux'
+import { useSelector ,useDispatch } from 'react-redux'
 import {Link} from 'react-router-dom'
+import {productSearch} from '../redux/productAction'
 const Header = () => {
   const result = useSelector((state) => state.cartData);
+  const dispatch = useDispatch();
   console.log("data in headedr", result)
   return (
     <div className='header'>
+      <Link to='/'><h1 className='logo'>E-Com</h1></Link>
+      <div className='search-box'>
+        <input type='text' onChange={(e)=>dispatch(productSearch(e.target.value))} placeholder='Search Product ...'/>
+      </div>
       <div className='cart-div'>
         <Link to='cart'>
         <span>{result.length}</span>
