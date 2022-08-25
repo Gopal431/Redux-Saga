@@ -19,3 +19,10 @@ export const emptyCart = () => {
 
     }
 }
+export const filterData = (data) => {
+    // console.log("filter Data", data)
+    return {
+        type: 'FILTER_DATA',
+        data
+    }
+}
