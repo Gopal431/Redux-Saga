@@ -1,0 +1,45 @@
+{
+    "product":[
+        {
+            "id": 1,
+            "name": "Gopal m 40",
+            "color": "black",
+            "price": 15000,
+            "category": "mobile",
+            "brand": "samsung",
+            "photo": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6pro-5g-oversea/navigation/Homepage-header2-427-x-600.png.thumb.webp"
+          },  {
+            "id": 2,
+            "name": "samsung m 40",
+            "color": "black",
+            "price": 15000,
+            "category": "mobile",
+            "brand": "samsung",
+            "photo": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6pro-5g-oversea/navigation/Homepage-header2-427-x-600.png.thumb.webp"
+          },  {
+            "id": 3,
+            "name": "samsung m 40",
+            "color": "black",
+            "price": 15000,
+            "category": "mobile",
+            "brand": "samsung",
+            "photo": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6pro-5g-oversea/navigation/Homepage-header2-427-x-600.png.thumb.webp"
+          },  {
+            "id": 4,
+            "name": "samsung m 40",
+            "color": "black",
+            "price": 15000,
+            "category": "mobile",
+            "brand": "samsung",
+            "photo": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6pro-5g-oversea/navigation/Homepage-header2-427-x-600.png.thumb.webp"
+          },  {
+            "id": 5,
+            "name": "samsung m 40",
+            "color": "black",
+            "price": 15000,
+            "category": "mobile",
+            "brand": "samsung",
+            "photo": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6pro-5g-oversea/navigation/Homepage-header2-427-x-600.png.thumb.webp"
+          }
+    ]
+}

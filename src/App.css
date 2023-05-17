@@ -11,6 +11,10 @@
   height: 200px;
 
 }
+.imgCart{
+  width: 70px;
+  height: 70px;
+}
 .cart-page-container table{
 flex: 65%;
   border-collapse: collapse;
